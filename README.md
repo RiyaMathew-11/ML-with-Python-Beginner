@@ -1,1 +1,1 @@
-# AI-ML-with-Python
+# Machine Learning and Deep Learning with Python

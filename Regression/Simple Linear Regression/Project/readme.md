@@ -38,4 +38,5 @@ The dataset consists of the following input variables :
 
 
 
-<b>Task: Find the best equation for wine quality using Regression and hence predict the wine quality using the available data. </b>
+<b>Task: Find the best equation for wine quality using Regression and hence predict the wine quality using the available data. </b><br>
+[Download Dataset](https://drive.google.com/file/d/1ME6xzWCuHJGzJo4n6etvgu9FAGldVEVJ/view)

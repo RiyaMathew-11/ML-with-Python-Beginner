@@ -6,4 +6,5 @@ The dataset contains the relatable attributes of the customers in a shopping ent
 
 Practical application: Most companies aim to have a deeper delve into the customers that they target. Hence they can employ marketing strategies that are efficient and minimize investment risks
 
-<i>Reference: Udemy</i>
+<i>Reference: Udemy</i><br>
+[Download Dataset](https://drive.google.com/file/d/1gAreYfAZAslgfOqY38WC-yT3Ix-HTYau/view)
